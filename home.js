@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('http://w5.w5r465e45fd.online:11295', "_blank");
+            window.open('http://db.dbnvjskfuhweut.online', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('http://4r.4r4wet5r64t.club:11295', "_blank");
+            window.open('http://52.83874t45544fa9.cc', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('http://kd.kdjfiu8w7rt.co:11295', "_blank");
+            window.open('http://we.ew84fd5sg45d6s.xyz', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('http://mf.mfcmfdjsc.info:11295', "_blank");
+            window.open('http://f4.4fd98754v76t98.co', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('http://7j.7jfdksjkjf.xyz:11295', "_blank");
+            window.open('http://4t.t45h1gm2fd3f5g.club', "_blank");
         }
     }
     function init() {
