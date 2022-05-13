@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('http://db.dbnvjskfuhweut.online', "_blank");
+            window.open('http://23.231d3f1g32f13h.cc', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('http://52.83874t45544fa9.cc', "_blank");
+            window.open('http://21.21g321j3h4k65f.cc', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('http://we.ew84fd5sg45d6s.xyz', "_blank");
+            window.open('http://46.465h432cv1b23x.xyz', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('http://f4.4fd98754v76t98.co', "_blank");
+            window.open('http://c1.c1b32x1ncfg56d.info', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('http://4t.t45h1gm2fd3f5g.club', "_blank");
+            window.open('http://13.13cv21x32c1b2v.xyz', "_blank");
         }
     }
     function init() {
