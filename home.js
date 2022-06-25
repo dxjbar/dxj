@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.n5sldu82w0zx.cc', "_blank");
+            window.open('https://api.g1krgniy6046.club', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.v5hjik7ag5ur.info', "_blank");
+            window.open('https://api.363ll1g5r3m5.club', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.n5sldu82w0zx.cc', "_blank");
+            window.open('https://api.g1krgniy6046.club', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.v5hjik7ag5ur.info', "_blank");
+            window.open('https://api.363ll1g5r3m5.club', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.n5sldu82w0zx.cc', "_blank");
+            window.open('https://api.g1krgniy6046.club', "_blank");
         }
     }
     function init() {
