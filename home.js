@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.jicdqgjqu9af.co', "_blank");
+            window.open('https://api.accommodation4y.cc', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.65wr1sg321f231.club', "_blank");
+            window.open('https://api.accommodation6c.cc', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.jicdqgjqu9af.co', "_blank");
+            window.open('https://api.accommodation4y.cc', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.65wr1sg321f231.club', "_blank");
+            window.open('https://api.accommodation6c.cc', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.jicdqgjqu9af.co', "_blank");
+            window.open('https://api.accommodation4y.cc', "_blank");
         }
     }
     function init() {
