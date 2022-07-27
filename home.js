@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.adult5v.cc', "_blank");
+            window.open('https://api.american1b.cc', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.adult8g.cc', "_blank");
+            window.open('https://api.american8j.cc', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.adult5v.cc', "_blank");
+            window.open('https://api.american1b.cc', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.adult8g.cc', "_blank");
+            window.open('https://api.american8j.cc', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.adult5v.cc', "_blank");
+            window.open('https://api.american1b.cc', "_blank");
         }
     }
     function init() {
