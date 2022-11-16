@@ -1,19 +1,19 @@
 (function(w) {
     function enterLine() {
         document.getElementById("btnEnter1").onclick = function() {
-            window.open('https://api.m4p6awp1.world', "_blank");
+            window.open('https://api.we4dju3j.club', "_blank");
         }
         document.getElementById("btnEnter2").onclick = function() {
-            window.open('https://api.9gvf58s8.club', "_blank");
+            window.open('https://api.gy7p4dps.world', "_blank");
         }
         document.getElementById("btnEnter3").onclick = function() {
-            window.open('https://api.m4p6awp1.world', "_blank");
+            window.open('https://api.we4dju3j.club', "_blank");
         }
         document.getElementById("btnEnter4").onclick = function() {
-            window.open('https://api.9gvf58s8.club', "_blank");
+            window.open('https://api.gy7p4dps.world', "_blank");
         }
         document.getElementById("btnEnter5").onclick = function() {
-            window.open('https://api.m4p6awp1.world', "_blank");
+            window.open('https://api.we4dju3j.club', "_blank");
         }
     }
     function init() {
